@@ -190,7 +190,7 @@ curl http://YOUR_PUBLIC_IP/api/
 }
 ```
 - ![Alt text](./Images/React_PublicIP.png)
-- ![Alt text](./Images/React_PublicIP02.png)
+- ![Alt text](./Images/React_PubliIP02.png)
 - ![Alt text](./Images/React_PublicIP03.png)
 
 ## Future Improvements
