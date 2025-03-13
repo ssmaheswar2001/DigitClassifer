@@ -129,7 +129,7 @@ npm start
 ```bash
 ssh -i your-key.pem ubuntu@your-ec2-public-ip
 ```
-- ![Alt text](.\Images\EC2Instance.png)
+- ![Alt text](./Images/EC2Instance.png)
 
 ### 2. Setup and Deploy
 ```bash
@@ -175,7 +175,7 @@ curl http://YOUR_PUBLIC_IP/api/
 
 ### 2. Predict Digit
 **Endpoint:** `POST /api/predict`
-- ![Alt text](.\Images\FastAPI_PublicIP.png)
+- ![Alt text](./Images/FastAPI_PublicIP.png)
 **Request:**
 ```json
 {
@@ -189,9 +189,9 @@ curl http://YOUR_PUBLIC_IP/api/
   "predicted_digit": 5
 }
 ```
-- ![Alt text](.Images\React_PublicIP.png)
-- ![Alt text](.Images\React_PublicIP02.png)
-- ![Alt text](.Images\React_PublicIP03.png)
+- ![Alt text](./Images/React_PublicIP.png)
+- ![Alt text](./Images/React_PublicIP02.png)
+- ![Alt text](./Images/React_PublicIP03.png)
 
 ## Future Improvements
 - Add authentication
