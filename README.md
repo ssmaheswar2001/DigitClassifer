@@ -58,7 +58,10 @@ The digit classification model was trained using the TensorFlow and Keras librar
 5. **Saving the Model:**
    - The trained model was saved as `my_model.keras` for deployment.
 
-6. **Training Code:**
+6. **Diagram:**
+   - ![Alt text](./Images/Model.png)
+
+7. **Training Code:**
 ```python
 import tensorflow as tf
 from tensorflow.keras.datasets import mnist
